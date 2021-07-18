@@ -1,0 +1,13 @@
+.heading_div{
+    float: none;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow:5px 5px 5px  black;
+    width: 100%;
+}
+.heading_div2
+{
+    font-size: 18px;
+}
